@@ -32,14 +32,8 @@ Displays details such as temperature, humidity, wind speed, and weather descript
   pandas as pd
 
 ## OUTPUT ##
-![Image](https://github.com/user-attachments/assets/f7ba3082-a35d-4908-a8ca-7c7c98b771b7)
-
-![Image](https://github.com/user-attachments/assets/3100bc0b-84dc-4808-80cc-2831d103c926)
-
-![Image](https://github.com/user-attachments/assets/d95a62e7-805e-474a-be98-859dbb086a71)
-
-![Image](https://github.com/user-attachments/assets/fa6a030f-2799-4c71-87ff-7850010b3693)
-
-![Image](https://github.com/user-attachments/assets/0774555b-74c5-4ef0-b10d-b7c0e30f794d)
-
-![Image](https://github.com/user-attachments/assets/b8a171c7-8177-42d8-9df0-287f76170bfe)
+![Image](https://github.com/user-attachments/assets/fb2d8c83-b4d5-4f76-91c2-c38766cb8aae)
+![Image](https://github.com/user-attachments/assets/ba6abb63-a0a0-47f6-a7d8-4259ddc1c0ae)
+![Image](https://github.com/user-attachments/assets/eeba4070-7c28-4848-b7d4-1492cfdf0318)
+![Image](https://github.com/user-attachments/assets/855c4c75-33b8-4016-b3fc-a3807292ae41)
+![Image](https://github.com/user-attachments/assets/4c110f78-776f-4b0a-a3f6-73c1886129b3)
