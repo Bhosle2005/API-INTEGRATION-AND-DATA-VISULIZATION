@@ -33,7 +33,6 @@ Displays details such as temperature, humidity, wind speed, and weather descript
 
 ## OUTPUT ##
 ![Image](https://github.com/user-attachments/assets/fb2d8c83-b4d5-4f76-91c2-c38766cb8aae)
-![Image](https://github.com/user-attachments/assets/ba6abb63-a0a0-47f6-a7d8-4259ddc1c0ae)
 ![Image](https://github.com/user-attachments/assets/eeba4070-7c28-4848-b7d4-1492cfdf0318)
 ![Image](https://github.com/user-attachments/assets/855c4c75-33b8-4016-b3fc-a3807292ae41)
 ![Image](https://github.com/user-attachments/assets/4c110f78-776f-4b0a-a3f6-73c1886129b3)
