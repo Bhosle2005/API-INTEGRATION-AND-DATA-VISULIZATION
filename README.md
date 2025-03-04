@@ -1,6 +1,6 @@
 # API-INTEGRATION-AND-DATA-VISULIZATION
 
-* COMPANY * :CODETECH IT SOLUTIONS
+* COMPANY * : CODETECH IT SOLUTIONS
 
 * NAME * : PRATIKSHA BHOSLE
 
@@ -18,7 +18,7 @@
   
  * FEATURES *
 Weather Data Fetching:
-  Fetches live weather data for predefined cities using the OpenWeatherMap API.
+Fetches live weather data for predefined cities using the OpenWeatherMap API.
 Displays details such as temperature, humidity, wind speed, and weather description.
 
 * DATA VISULIZATION * :
@@ -27,9 +27,9 @@ Displays details such as temperature, humidity, wind speed, and weather descript
 3.Pie Chart: Shows the wind speed distribution among cities.
 
 * REQUIRED LIBRARIES *
-  requests : For making API calls.
-  matplotlib : For creating charts.
-  pandas as pd
+  1. requests : For making API calls.
+  2. matplotlib : For creating charts.
+  3. pandas as pd
 
 ## OUTPUT ##
 ![Image](https://github.com/user-attachments/assets/fb2d8c83-b4d5-4f76-91c2-c38766cb8aae)
